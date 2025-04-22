@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Haripath</string>
+    
+    <!-- Backup & Restore -->
+    <string name="backup_restore_title">Backup &amp; Restore</string>
+    <string name="backup_data">Backup Data</string>
+    <string name="backup_description">Export your data to a file</string>
+    <string name="export_json">Export as JSON</string>
+    <string name="export_text">Export as Text</string>
+    <string name="restore_data">Restore Data</string>
+    <string name="restore_description">Import data from a backup file</string>
+    <string name="import_backup">Import Backup</string>
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+    <string name="backup_saved">Backup saved to: %1$s</string>
+    <string name="backup_failed">Failed to create backup: %1$s</string>
+    <string name="import_failed">Failed to import backup: %1$s</string>
+    <string name="data_restored">Data restored successfully</string>
+    <string name="data_restore_failed">Failed to restore data: %1$s</string>
+</resources>

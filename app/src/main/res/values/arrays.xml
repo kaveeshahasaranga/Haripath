@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="income_categories">
+        <item>Salary</item>
+        <item>Freelance</item>
+        <item>Investments</item>
+        <item>Gifts</item>
+        <item>Other Income</item>
+    </string-array>
+
+    <string-array name="expense_categories">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Shopping</item>
+        <item>Bills</item>
+        <item>Entertainment</item>
+        <item>Health</item>
+        <item>Education</item>
+        <item>Other Expenses</item>
+    </string-array>
+</resources> 
